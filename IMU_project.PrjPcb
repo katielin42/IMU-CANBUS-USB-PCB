@@ -106,294 +106,158 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for IMU_project\Design Rule Check - imu_proj_3.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.3
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GML
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3.REP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Project Outputs for IMU_project\imu_proj_3.xls
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_11.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_12.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_16.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_20.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_21.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_23.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Mechanical_24.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for IMU_project\imu_proj_3_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -711,7 +575,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CAD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
