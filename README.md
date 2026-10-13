@@ -1,6 +1,6 @@
 # IMU CANBUS USB Module
 
-- A small module to communicate via CANBUS or USB with an STMF1 as the main microcontroller.
+- A small module to communicate via CANBUS or USB with an STMF1 as the main microcontroller. USB-C port is mainly for loading firmware via a custom bootloader, while CANBUS serves as a communication protocol to other CAN devices that users will connect it to. 
 
 # Prototype
 <img src="./canbus_imu.png" alt="CAN/USB IMU PCB" width="600">
