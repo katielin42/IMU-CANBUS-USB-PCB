@@ -14,7 +14,10 @@
 - A 4-layer PCB, SIG -> GND -> GND -> SIG stackup. Manufactured via JLCPCB.
 - This project was created with Altium Designer. 
 - Note, this repo only contains the schematic, layout/stack up for this module.
-- Note, the prototype has the level shifter VCCA/VCCB banks flipped, We can simply flip the component itself as the footprint is basically identical, but would be good to address in rev B. 
+
+## Rev B comments: 
+- The prototype has the level shifter VCCA/VCCB banks flipped, We can simply flip the component itself as the footprint is basically identical, but would be good to address in rev B.
+- Via sizes need to be much smaller, there's no reason for them to be as large as they currently are. 
 
 ### Software/Firmware
 
