@@ -2,6 +2,9 @@
 
 - A small module to communicate via CANBUS or USB with an STMF1 as the main microcontroller.
 
+# Prototype
+<img src="./canbus_imu.png" alt="CAN/USB IMU PCB" width="600">
+
 ## Introduction
 
 - A generic IMU control module that can communicate with external modules via CANBUS or USB-C. 
